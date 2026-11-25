@@ -1,6 +1,10 @@
 # 冰愈少，吸熱愈多
 
-為 make.fun `news-image-20261124` 主題從零製作的原創冰川反照率回饋科學背景圖。只在本機製作；未付費、上傳、送件、簽名或執行 `record`。
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/pigmimicat-tw/news-image-20261124-glacier-feedback/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261124/pigmimicat-tw/news-image-20261124-glacier-feedback/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
+為 make.fun `news-image-20261124` 主題從零製作的原創冰川反照率回饋科學背景圖。圖像與程式在本機製作並完成獨立驗證；2026-11-25 經使用者授權免費公開 GitHub 來源，準備正式投稿。未付款、轉帳或執行 `record`。原始建置紀錄中的「未上傳」為當時的本機階段快照。
 
 ![冰川反照率回饋圖](entry.png)
 
@@ -49,3 +53,7 @@ sh build.sh
 ## 授權
 
 原創程式與插畫以 MIT 授權，見 `LICENSE`。沒有重製官方 starter 圖、其他參賽者作品、外部照片或現成插畫。
+
+## 原始版本
+
+原始本機建置 commit：`56c00cb295a037fe721e688477e2789cb498a04c`。公開來源第一個完整版本 `cbe1ecbd0c1c9eb574e94ae8dbabfedee1901532` 的 tree 與原始 commit 完全相同：`286493f6b2a3ff4bf180a24fe109141be53f7fea`。之後只補投稿所需 README 徽章與公開狀態說明；圖片與執行程式保持原樣。
